@@ -1,0 +1,37 @@
+.content-header{
+  text-align: center;
+}
+
+.flex_center{
+  display: flex!important;
+  justify-content: center!important;
+}
+
+.center{
+  text-align: center;
+}
+
+.fields{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-light{
+  background-color: #d0d0d0!important; 
+}
+
+.bord{
+  border: 1px solid #a9b0bd!important;
+}
+
+.disabled{
+    opacity: 0.5;
+    color: red;
+}
+
+.pass{
+  width: 100px!important;
+}
